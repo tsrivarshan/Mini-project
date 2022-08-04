@@ -27,7 +27,7 @@ SECRET_KEY = '=hes_u^ds)347c7julen91qpf)1o9r7@axmr_%i8%e1m+(uj#2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','arasanstores.herokuapp.com']
 
 LOGIN_URL = 'users:login'
 
